@@ -31,7 +31,7 @@ This project is a Python application that visualizes the **A\*** pathfinding alg
 - **Right Click**: Set Start and End points.
 - **Find Paths**: Finds and displays all 3 shortest paths simultaneously.
 - **Reset**: Clears the grid and paths.
-- **Maze Buttons**: Auto-generate an easy, hard, or complicated maze.
+- **Maze Buttons**: Auto-generate an easy or complicated maze.
 - **Dropdown**: Optionally highlight only 1st, 2nd, or 3rd path.
 
 
